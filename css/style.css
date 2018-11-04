@@ -7956,6 +7956,18 @@ section {
   content: '';
   background: #249384; }
 
+.linedecaration2 {
+  position: relative; }
+
+.linedecaration2:after {
+  position: absolute;
+  bottom: -6px;
+  left: 0;
+  width: 60px;
+  height: 4px;
+  content: '';
+  background: #fff; }
+
 .fontstyle h2 {
   text-transform: uppercase;
   font-weight: 500;
